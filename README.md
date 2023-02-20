@@ -42,7 +42,11 @@ The following files have been reused from the [software_carpentry_learner](https
 ./solutions/*
 ```
 
-The following files have been created during the workshop (**to-be-updated**). 
+The following files have been created during the workshop (**to-be-updated**):
+
+```
+./swc_python_day1.ipynb
+```
 
 It is important mention that image files generated during the workshop (i.e. `.png` files) have not been included in this repository. 
 
@@ -63,17 +67,18 @@ It is important mention that image files generated during the workshop (i.e. `.p
 | 13.30 - 13.50 | Variables and Types                             |
 | 13.50 - 14.00 | Loading Data in Python                          |
 | 14.00 - 14.15 | **Break**                                       |
-| 14.15 - 14.25 | Slicing Data                                    |
-| 14.25 - 14.40 | Breakout Session #1                             |
-| 14.40 - 15.00 | Analyzing Data with Python                      |
-| 15.00 - 15.15 | Visualizing Data with Python                    |
-| 15.15 - 15.30 | Breakout Session #2                             |
+| 14.15 - 14.30 | Loading Data in Python (continued)              |
+| 14.30 - 14.40 | Slicing Data                                    |
+| 14.40 - 14.55 | Breakout Session #1                             |
+| 14.55 - 15.15 | Analyzing Data with Python                      |
+| 15.15 - 15.30 | Visualizing Data with Python                    |
 | 15.30 - 15.45 | **Break**                                       |
-| 15.45 - 16.00 | Customizing Visualizations                      |
-| 16.00 - 16.40 | Repeating Actions with FOR Loops                |
-| 16.40 - 16.55 | Breakout Session #3                             |
+| 15.45 - 16.05 | Breakout Session #2                             |
+| 16.05 - 16.20 | Customizing Visualizations                      |
+| 16.20 - 16.55 | Repeating Actions with FOR Loops                |
 | 16.55 - 17.00 | Wrap-Up and End of Day 1                        |
 
+**Exercise of Breakout Session #3 were left as homework**
 
 ### Day 2
 
@@ -108,6 +113,12 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 For further material on **Customizing Visualizations**, please visit the [**Foundations of Astronomical Data Science**](https://datacarpentry.org/astronomy-python/) **Visualization** lesson. 
 
 To see more about the other lessons run during the workshop, please visit [this link](https://4turesearchdata-carpentries.github.io/2023-02-20-tudelft/).
+
+Other useful references mentioned during the workshop:
+
+* Python Enhancement Proposal [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008/)  
+* [Matplotlib colormaps](https://matplotlib.org/stable/gallery/color/colormap_reference.html)  
+* [The Data Visualization Catalogue](https://datavizcatalogue.com/) - *uses not only Python, but you can see different types of visualizations for data analysis*  
 
 ## Feedback
 
