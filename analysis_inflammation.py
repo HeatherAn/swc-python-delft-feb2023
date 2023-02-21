@@ -77,3 +77,8 @@ def detect_zero_minima(f, output_f):
         output_f.write(f + '\n')
         
     print('\nContinuing\n')
+
+
+if __name__ == '__main__':
+    print('Using analysis_inflammation as source file')
+    print(__name__)
