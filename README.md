@@ -119,6 +119,7 @@ Other useful references mentioned during the workshop:
 * Python Enhancement Proposal [PEP8 Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 * [Matplotlib colormaps](https://matplotlib.org/stable/gallery/color/colormap_reference.html)  
 * [The Data Visualization Catalogue](https://datavizcatalogue.com/) - *uses not only Python, but you can see different types of visualizations for data analysis*  
+* [Improving Coding Practices training material](https://gitlab.tudelft.nl/handrewsmancil/improving-coding-practices-training)
 
 ## Feedback
 
