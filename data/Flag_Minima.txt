@@ -1,3 +1,0 @@
-./data\inflammation-03.csv
-./data\inflammation-08.csv
-./data\inflammation-11.csv
